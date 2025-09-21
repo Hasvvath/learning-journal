@@ -1,2 +1,2 @@
-# learning-journal
-📘 Weekly notes from my tech &amp; AI learning journey
+Hi!
+I will be posting my learnings here  
